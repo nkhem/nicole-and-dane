@@ -1,3 +1,9 @@
 h1 {
   color: magenta;
 }
+
+img.wedding {
+  width: 300px;
+  display: block;
+  margin: 0 auto;
+}
