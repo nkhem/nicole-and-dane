@@ -1,9 +1,27 @@
+body {
+  background-color: #B0C6D3;
+  color: #EFD9B6;
+}
+
 h1 {
-  color: magenta;
+  color: #7A2215;
+}
+
+h2, h3 {
+  color: #A05246;
+}
+
+p {
+  color: #DD7968;
 }
 
 img.wedding {
-  width: 300px;
-  display: block;
+  /*width: 400px;*/
+  height: 400px;
   margin: 0 auto;
+}
+
+.main-imgs {
+  display: flex;
+  justify-content: center;
 }
